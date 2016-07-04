@@ -1,2 +1,4 @@
 # ml-intro-ohe-scikitlearn
-Experiment with one hot encoding.
+I try to demonstrate the importance of encoding features appropriately. I used scikitlearn and a means of encoding categorical features I learned from a few websites. 
+
+I  presented this presentation at PGH TechFest 2016.
